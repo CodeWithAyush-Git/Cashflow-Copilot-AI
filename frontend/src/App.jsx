@@ -192,7 +192,6 @@ function App() {
                 />
               </Panel>
             ) : null}
-
           </>
         )}
         <Footer />

@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="app-footer">
       <div>
         <p className="eyebrow">Cashflow Copilot</p>
-        <h3>Built for faster collections and clearer cashflow decisions.</h3>
+        <h3>Built for faster collections and clearer cashflow decisions.</h3>  //Footer Data
       </div>
       <p className="footer-copy">
         Centralize invoices, monitor collection risk, and create professional follow-ups in minutes.

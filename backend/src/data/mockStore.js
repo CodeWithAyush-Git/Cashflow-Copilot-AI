@@ -3,7 +3,7 @@ function daysFromToday(offset) {
   value.setDate(value.getDate() + offset);
   return value.toISOString().split("T")[0];
 }
-
+ // Mock Data fill this app 
 const clients = [
   {
     id: "client-1",
